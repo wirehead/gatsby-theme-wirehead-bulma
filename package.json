@@ -1,7 +1,7 @@
 {
   "name": "gatsby-theme-wirehead-bulma",
   "version": "0.0.1",
-  "description": "",
+  "description": "Some basic Bulma-related scheming for Gatsby.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -48,7 +48,7 @@
     "node-sass": "^4.13.1",
     "react-helmet": "^5.2.1"
   },
-  "dependencies": {    
+  "dependencies": {
     "prop-types": "^15.7.2"
   }
 }
