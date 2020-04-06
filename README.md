@@ -1,6 +1,6 @@
 # gatsby-theme-wirehead-bulma
 
-[![CircleCI](https://circleci.com/gh/wirehead/gatsby-theme-wirehead-bulma.svg?style=svg)](https://circleci.com/gh/wirehead/gatsby-theme-wirehead-bulma)[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)[![Hippocratic License](https://img.shields.io/badge/license-Hippocratic%20OSL%202.1-4baaaa)](https://firstdonoharm.dev/)
+[![CircleCI](https://circleci.com/gh/wirehead/gatsby-theme-wirehead-bulma.svg?style=svg)](https://circleci.com/gh/wirehead/gatsby-theme-wirehead-bulma)[![npm version](https://badge.fury.io/js/gatsby-theme-wirehead-bulma.svg)](https://www.npmjs.com/package/gatsby-theme-wirehead-bulma)[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)[![Hippocratic License](https://img.shields.io/badge/license-Hippocratic%20OSL%202.1-4baaaa)](https://firstdonoharm.dev/)
 
 Some basic Bulma-related scheming for Gatsby.js
 
