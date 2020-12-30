@@ -6,11 +6,9 @@ Some basic Bulma-related scheming for Gatsby.js
 
 Because it looks like all of the popular React wrappers for Bulma are lagging... it's just using straignt Bulma.
 
-**WORK IN PROGRESS WARNING**: I'm totally not finished messing with this.
-
 ## Release status
 
-This is not, to my knowledge, running in production and probably not quite ready for that yet.
+**WORK IN PROGRESS WARNING**: I'm totally not finished messing with this.
 
 ## Installation
 
